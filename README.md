@@ -1,6 +1,14 @@
 # Visitino (not a good name)
 
 Mobile-first field visit and routing app built with Expo (React Native) on the client and a Go backend that handles auth, shop search, route optimization, and visit tracking.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6dacbbb1-ca4d-4e87-8310-33a0cf6fc6bc" width="300">
+  <img src="https://github.com/user-attachments/assets/3a13d7cc-61e4-42de-b1a0-4878d1b50eea" width="300">
+</p>
+
+
+
+
 
 ## Overview
 - **Frontend**: Expo Router app in `app/` with Persian UI for home, login, registration, search/routing, and turn-by-turn navigation handoff to Neshan.
